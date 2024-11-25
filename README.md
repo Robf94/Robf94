@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robf94&theme=tokyonight" alt="mystreak"/>
-![Snake animation](https://github.com/Robf94/github-readme/blob/output/github-contribution-snake.svg)
+https://github.com/Robf94/github-readme/blob/output/github-contribution-snake.svg
 
 <!--
 **Robf94/Robf94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
